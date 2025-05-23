@@ -44,9 +44,9 @@ The system will help libraries:
 
 ## 🛠️ Planned Tools
 
-- **Backend**: ASP.NET Core (C#)
+- **Backend**:  PHP
 - **Frontend**: HTML, CSS, JavaScript (with Razor Pages or Blazor)
-- **Database**: Microsoft SQL Server
+- **Database**: MySQL
 - **IDE**: Visual Studio
 - **Data Format**: JSON for sending/receiving data
 - **Diagrams**: Draw.io or Lucidchart
